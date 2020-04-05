@@ -8,5 +8,10 @@ public class Main {
 	public Main() {
 		// TODO Auto-generated constructor stub
 	}
+	
+	public static int BinarySearch(int valueToSearch, int[] arrayToSearch) 
+	{
+		return -1;
+	}
 
 }
